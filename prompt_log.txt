@@ -1,0 +1,9 @@
+IE3010 Prompt Log - IT23861404
+
+1. Task: Asked for help understanding the IE3010 NetMessenger assignment and its requirements.
+Use: Assignment requirements were extracted and explained in English and Sinhala.
+
+2. Task: Asked for a complete personalized implementation based on registration number IT23861404.
+Use: AI-generated starter implementation was reviewed against the assignment specification. The student must compile, test, understand, and modify the implementation before submission.
+
+Important: The assignment explicitly requires recording substantive AI interactions and critically evaluating/testing AI output. Do not claim that unperformed tests were performed.

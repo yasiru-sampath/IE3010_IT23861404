@@ -1,0 +1,13 @@
+CC=gcc
+CFLAGS=-Wall -Wextra -O2 -pthread
+
+all: server_1404 client_1404
+
+server_1404: server_1404.c
+	$(CC) $(CFLAGS) server_1404.c -o server_1404
+
+client_1404: client_1404.c
+	$(CC) $(CFLAGS) client_1404.c -o client_1404
+
+clean:
+	rm -f server_1404 client_1404

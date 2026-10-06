@@ -1,0 +1,18 @@
+IE3010 IT23861404 - Test Results
+
+Build: PASS - gcc -Wall -Wextra -O2 -pthread
+Port: 7404
+NID: 8614
+
+REGISTER: PASS
+LIST: PASS
+BCAST: PASS
+PMSG: PASS
+JOIN: PASS
+RMSG: PASS
+ROOMS: PASS
+SENDFILE: PASS - 2066 bytes transferred; SHA-256 matched
+INVALID COMMAND: PASS - ERR 005 INVALID_COMMAND NID:8614
+QUIT: PASS
+
+Note: Tests were executed in a Linux container. Re-run on the department lab Linux machine before submission and capture genuine screenshots.
